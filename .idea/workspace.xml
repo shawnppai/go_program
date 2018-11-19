@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b767fb5-b54a-4a70-ac5b-2d6e983bab85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/go_pro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working-with-go/time-date.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channels.go" beforeDir="false" afterPath="$PROJECT_DIR$/channels.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/errors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-errors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-fib-closure.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-fib-closure.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-image.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-image.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-rot-reader.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-rot-reader.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-slices.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-slices.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-stringer.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-stringer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function-closure.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-closure.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function-values.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-values.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutines.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutines.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images.go" beforeDir="false" afterPath="$PROJECT_DIR$/images.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indrection.go" beforeDir="false" afterPath="$PROJECT_DIR$/indrection.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface-are-satisfied-implicitly.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface-are-satisfied-implicitly.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface-values.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface-values.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map-literal.go" beforeDir="false" afterPath="$PROJECT_DIR$/map-literal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps.go" beforeDir="false" afterPath="$PROJECT_DIR$/maps.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods-continued.go" beforeDir="false" afterPath="$PROJECT_DIR$/methods-continued.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods-pointer.go" beforeDir="false" afterPath="$PROJECT_DIR$/methods-pointer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods-with-value.go" beforeDir="false" afterPath="$PROJECT_DIR$/methods-with-value.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods.go" beforeDir="false" afterPath="$PROJECT_DIR$/methods.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutating-maps.go" beforeDir="false" afterPath="$PROJECT_DIR$/mutating-maps.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutex-counter.go" beforeDir="false" afterPath="$PROJECT_DIR$/mutex-counter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/range-and-close.go" beforeDir="false" afterPath="$PROJECT_DIR$/range-and-close.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader.go" beforeDir="false" afterPath="$PROJECT_DIR$/reader.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/select.go" beforeDir="false" afterPath="$PROJECT_DIR$/select.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slice-of-slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/slice-of-slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringer.go" beforeDir="false" afterPath="$PROJECT_DIR$/stringer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/type-assertions.go" beforeDir="false" afterPath="$PROJECT_DIR$/type-assertions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/type-switches.go" beforeDir="false" afterPath="$PROJECT_DIR$/type-switches.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working-with-go/command-line-args.go" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-go/command-line-args.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working-with-go/control-structures.go" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-go/control-structures.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working-with-go/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-go/create.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working-with-go/for-loops.go" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-go/for-loops.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working-with-go/functions.go" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-go/functions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working-with-go/object-oriented-example.go" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-go/object-oriented-example.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working-with-go/read-dir-recursive.go" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-go/read-dir-recursive.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working-with-go/read-write-file-two.go" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-go/read-write-file-two.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working-with-go/read-write-files.go" beforeDir="false" afterPath="$PROJECT_DIR$/working-with-go/read-write-files.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1673165357">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="535" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="535" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/working-with-go/time-date.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+              <folding>
+                <element signature="e#14#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/working-with-go/time-date.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="295" />
+    <option name="y" value="27" />
+    <option name="width" value="1890" />
+    <option name="height" value="902" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="go_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go_pro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="go_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="go_pro" type="462c0819:PsiDirectoryNode" />
+              <item name="working-with-go" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build time-date.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_pro" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/working-with-go/time-date.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build time-date.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24449877" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6605166" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24449877" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Go/src/time/format.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-968">
+          <caret line="785" column="39" lean-forward="true" selection-start-line="785" selection-start-column="39" selection-end-line="785" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/working-with-go/time-date.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="e#14#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
