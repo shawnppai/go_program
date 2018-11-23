@@ -8,8 +8,8 @@ func fibonacci() func() int {
 	doublePre := 0
 	pre := 1
 	return func() int {
-		doublePre, pre = pre, doublePre + pre
-        return pre - doublePre
+		doublePre, pre = pre, doublePre+pre
+		return pre - doublePre
 	}
 }
 

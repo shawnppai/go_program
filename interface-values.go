@@ -1,14 +1,13 @@
 package main
 
 import (
-   "fmt"
-   "math"
+	"fmt"
+	"math"
 )
 
 type I interface {
 	M()
 }
-
 
 type T struct {
 	S string

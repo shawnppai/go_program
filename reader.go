@@ -1,11 +1,10 @@
 package main
 
 import (
-   "fmt"
-   "strings"
-   "io"
+	"fmt"
+	"io"
+	"strings"
 )
-
 
 func main() {
 	r := strings.NewReader("Hello, Reader!")

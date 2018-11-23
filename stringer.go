@@ -2,10 +2,9 @@ package main
 
 import "fmt"
 
-
 type Person struct {
 	Name string
-	age int
+	age  int
 }
 
 //实现String()方法的重写，重新定义了fmt.Println()行为

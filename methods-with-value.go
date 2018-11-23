@@ -22,7 +22,7 @@ func main() {
 	fmt.Println(v.Abs())
 	fmt.Println(AbsFunc(v))
 
-    // p是指针
+	// p是指针
 	p := &Vertex{4, 3}
 	// 传入p,其实应该是(*p).Abs()
 	fmt.Println(p.Abs())

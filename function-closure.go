@@ -11,12 +11,12 @@ import "fmt"
 }
 */
 func adder() func(a int) int {
-    sum := 0
-    fn := func(a int) int {
-    	sum += a
-    	return sum
-    }
-    return fn
+	sum := 0
+	fn := func(a int) int {
+		sum += a
+		return sum
+	}
+	return fn
 }
 
 func main() {

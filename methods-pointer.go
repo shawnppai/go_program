@@ -1,8 +1,8 @@
 package main
 
 import (
-    "fmt"
-    "math"
+	"fmt"
+	"math"
 )
 
 type Vertex struct {
@@ -10,7 +10,7 @@ type Vertex struct {
 }
 
 func (v Vertex) Abs() float64 {
-	return math.Sqrt(v.X * v.X + v.Y * v.Y)
+	return math.Sqrt(v.X*v.X + v.Y*v.Y)
 }
 
 func (v *Vertex) Scale(f float64) {

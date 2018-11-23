@@ -21,14 +21,11 @@ func main() {
 	v.Scale(2)
 	ScaleFunc(&v, 10)
 	fmt.Println(v)
-    
-    vv := Vertex{3, 4}
+
+	vv := Vertex{3, 4}
 	p := &vv
 	p.Scale(2)
 	ScaleFunc(p, 10)
 	fmt.Println(v)
-
-
-
 
 }
