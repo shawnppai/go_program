@@ -2,58 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b767fb5-b54a-4a70-ac5b-2d6e983bab85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/working-with-go/regular-expressions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working-with-go/rest-apt-fetch.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_nums.go" beforeDir="false" afterPath="$PROJECT_DIR$/add_nums.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array.go" beforeDir="false" afterPath="$PROJECT_DIR$/array.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/channels.go" beforeDir="false" afterPath="$PROJECT_DIR$/channels.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/errors.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise-errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-errors.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise-fib-closure.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-fib-closure.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise-image.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-image.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise-rot-reader.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-rot-reader.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise-slices.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-slices.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise-stringer.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-stringer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for-is-while.go" beforeDir="false" afterPath="$PROJECT_DIR$/for-is-while.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for.go" beforeDir="false" afterPath="$PROJECT_DIR$/for.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function-closure.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-closure.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function-values.go" beforeDir="false" afterPath="$PROJECT_DIR$/function-values.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goroutines.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutines.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/hello.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if.go" beforeDir="false" afterPath="$PROJECT_DIR$/if.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images.go" beforeDir="false" afterPath="$PROJECT_DIR$/images.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indrection.go" beforeDir="false" afterPath="$PROJECT_DIR$/indrection.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface-are-satisfied-implicitly.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface-are-satisfied-implicitly.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface-values.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface-values.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/making-slices.go" beforeDir="false" afterPath="$PROJECT_DIR$/making-slices.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map-literal.go" beforeDir="false" afterPath="$PROJECT_DIR$/map-literal.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maps.go" beforeDir="false" afterPath="$PROJECT_DIR$/maps.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods-continued.go" beforeDir="false" afterPath="$PROJECT_DIR$/methods-continued.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods-pointer.go" beforeDir="false" afterPath="$PROJECT_DIR$/methods-pointer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods-with-value.go" beforeDir="false" afterPath="$PROJECT_DIR$/methods-with-value.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methods.go" beforeDir="false" afterPath="$PROJECT_DIR$/methods.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutating-maps.go" beforeDir="false" afterPath="$PROJECT_DIR$/mutating-maps.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutex-counter.go" beforeDir="false" afterPath="$PROJECT_DIR$/mutex-counter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/named_results.go" beforeDir="false" afterPath="$PROJECT_DIR$/named_results.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nil-slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/nil-slice.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pointer.go" beforeDir="false" afterPath="$PROJECT_DIR$/pointer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/range-and-close.go" beforeDir="false" afterPath="$PROJECT_DIR$/range-and-close.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/range-contiued.go" beforeDir="false" afterPath="$PROJECT_DIR$/range-contiued.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reader.go" beforeDir="false" afterPath="$PROJECT_DIR$/reader.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanbox.go" beforeDir="false" afterPath="$PROJECT_DIR$/sanbox.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/select.go" beforeDir="false" afterPath="$PROJECT_DIR$/select.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slice-of-slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/slice-of-slice.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slices-len-cap.go" beforeDir="false" afterPath="$PROJECT_DIR$/slices-len-cap.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slices-literal.go" beforeDir="false" afterPath="$PROJECT_DIR$/slices-literal.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slices-poiter.go" beforeDir="false" afterPath="$PROJECT_DIR$/slices-poiter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slices.go" beforeDir="false" afterPath="$PROJECT_DIR$/slices.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stringer.go" beforeDir="false" afterPath="$PROJECT_DIR$/stringer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struct-fields.go" beforeDir="false" afterPath="$PROJECT_DIR$/struct-fields.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struct-literals.go" beforeDir="false" afterPath="$PROJECT_DIR$/struct-literals.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struct-pointer.go" beforeDir="false" afterPath="$PROJECT_DIR$/struct-pointer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-assertions.go" beforeDir="false" afterPath="$PROJECT_DIR$/type-assertions.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/type-switches.go" beforeDir="false" afterPath="$PROJECT_DIR$/type-switches.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables.go" beforeDir="false" afterPath="$PROJECT_DIR$/variables.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,31 +16,31 @@
     <session id="-1673165357">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="17" />
+          <entry key="go" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="17" />
+          <entry key="Go" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="4359" />
+          <entry key="go" value="5922" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="4359" />
+          <entry key="Go" value="5922" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -98,22 +49,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/working-with-go/json.go">
+        <entry file="file://$PROJECT_DIR$/working-with-go/rest-apt-fetch.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2000">
-              <caret line="80" column="56" selection-start-line="80" selection-start-column="56" selection-end-line="80" selection-end-column="56" />
-              <folding>
-                <element signature="e#14#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/working-with-go/web-server.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="-163">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
               <folding>
                 <element signature="e#14#43#0" expanded="true" />
               </folding>
@@ -121,83 +60,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercise-slices.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/for-is-while.go">
+        <entry file="file://$PROJECT_DIR$/working-with-go/regular-expressions.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="119">
+              <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
               <folding>
-                <element signature="e#14#40#0" expanded="true" />
+                <element signature="e#14#41#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/working-with-go/guess_game.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding>
-                <element signature="e#14#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/working-with-go/goroutines.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-              <folding>
-                <element signature="e#14#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Go/src/net/http/request.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6997">
-              <caret line="775" column="11" selection-start-line="775" selection-start-column="11" selection-end-line="775" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/working-with-go/read-write-file-two.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="32" column="33" selection-start-line="32" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/working-with-go/read-write-files.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Go/src/io/ioutil/ioutil.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -226,6 +96,8 @@
         <option value="$PROJECT_DIR$/working-with-go/web-server.go" />
         <option value="$PROJECT_DIR$/exercise-slices.go" />
         <option value="$PROJECT_DIR$/for-is-while.go" />
+        <option value="$PROJECT_DIR$/working-with-go/rest-apt-fetch.go" />
+        <option value="$PROJECT_DIR$/working-with-go/regular-expressions.go" />
       </list>
     </option>
   </component>
@@ -236,8 +108,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="294" />
-    <option name="y" value="27" />
+    <option name="x" value="916" />
+    <option name="y" value="43" />
     <option name="width" value="1890" />
     <option name="height" value="903" />
   </component>
@@ -302,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build goroutines.go">
+  <component name="RunManager" selected="Go Build.go build regular-expressions.go">
     <configuration name="go build goroutines.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_pro" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -319,19 +191,19 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build json.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build regular-expressions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_pro" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/working-with-go/json.go" />
+      <filePath value="$PROJECT_DIR$/working-with-go/regular-expressions.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build sorting.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build rest-apt-fetch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_pro" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/working-with-go/sorting.go" />
+      <filePath value="$PROJECT_DIR$/working-with-go/rest-apt-fetch.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -344,29 +216,49 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build sorting.go" />
-      <item itemvalue="Go Build.go build json.go" />
       <item itemvalue="Go Build.go build web-server.go" />
       <item itemvalue="Go Build.go build guess_game.go" />
       <item itemvalue="Go Build.go build goroutines.go" />
+      <item itemvalue="Go Build.go build rest-apt-fetch.go" />
+      <item itemvalue="Go Build.go build regular-expressions.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build regular-expressions.go" />
+        <item itemvalue="Go Build.go build rest-apt-fetch.go" />
         <item itemvalue="Go Build.go build goroutines.go" />
         <item itemvalue="Go Build.go build guess_game.go" />
         <item itemvalue="Go Build.go build web-server.go" />
-        <item itemvalue="Go Build.go build json.go" />
-        <item itemvalue="Go Build.go build sorting.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24413905" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25540766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3291815" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5498221" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985765" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3291815" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25540766" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.66014236" />
@@ -378,30 +270,11 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3291815" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24449877" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,9 +299,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-          <folding>
-            <element signature="e#14#45#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -443,9 +313,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -488,9 +355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2000">
           <caret line="80" column="56" selection-start-line="80" selection-start-column="56" selection-end-line="80" selection-end-column="56" />
-          <folding>
-            <element signature="e#14#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -505,9 +369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <element signature="e#14#45#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -515,9 +376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -525,9 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -542,8 +397,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/working-with-go/rest-apt-fetch.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding>
-            <element signature="e#14#40#0" expanded="true" />
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/working-with-go/regular-expressions.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
